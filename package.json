@@ -1,11 +1,13 @@
 {
   "name": "manno-wonder-syntax",
   "theme": "syntax",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "let's use this!",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "manno",
+    "dark"
   ],
   "repository": "https://github.com/manno-k/manno-wonder-syntax.git",
   "license": "MIT",
