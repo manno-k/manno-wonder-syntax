@@ -9,4 +9,4 @@ you can use my theme
 you can try it.
 thanks.
 
-![A screenshot of your theme](https://github.com/manno-k/manno-wonder-syntax/ss.gif)
+![A screenshot of your theme](https://github.com/manno-k/manno-wonder-syntax/blob/master/ss.gif)
